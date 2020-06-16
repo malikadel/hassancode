@@ -7,7 +7,36 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+
+
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+
+
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+
+
+
+
+
+
+
+ <!--  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"> -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
@@ -84,18 +113,7 @@
         });
      });
     </script>
- <link rel="shortcut icon" href="assets/images/logo2.png" type="image/x-icon">
-  <meta name="description" content="Responsive Bootstrap HTML5 Magazine Template - Free Download">
-  <title>Palestine Charity</title>
-  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
-  <link rel="stylesheet" href="assets/tether/tether.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="assets/socicon/css/styles.css">
-  <link rel="stylesheet" href="assets/dropdown/css/style.css">
-  <link rel="stylesheet" href="assets/theme/css/style.css">
-  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+<script src="https://www.paypal.com/sdk/js?client-id=AbFW7dg86asszPcQM7siqc_WgNUhmwdWQExnUSpKRPR8ZB7Upkdx3yTV1pffsbiLqWPpxhMP4WTAu_VK"></script>
 
 </head>
 <body>
@@ -140,6 +158,10 @@
     </nav>
 </section>
 <section class="engine"><a href="https://mobirise.co/b">web page creator</a></section>
+
+
+
+
 <div class="container">
   <br><br>
 
@@ -162,11 +184,12 @@
 
     <div class="input-group mb-3 amount-input-box" >
       <div class="input-group-prepend">
-        <span class="input-group-text">$</span>
+        <span class="input-group-text"></span>
       </div>
-      <input type="number" id="amount" class="form-control" aria-label="Amount (to the nearest dollar)" name="amount">
+      <input type="number" id="amount" class="form-control" aria-label="Amount (to the nearest dollar)" placeholder="Amount" name="amount">
 
     </div>
+
 
 
     <br>
@@ -231,7 +254,7 @@
 <br>
     <div class="input-group mb-3 mt-5 amount-input-box" >
       <div class="input-group-prepend">
-        <span class="input-group-text">Donation Total</span>
+        <span class="input-group-text"></span>
       </div>
       <input type="text" id="finalamount" disabled="disabled" class="form-control" aria-label="Amount (to the nearest dollar)">
 
@@ -243,6 +266,107 @@
   <br><br><br>
 </div>
 
+<section class="cid-qzaqxkvxXG" id="social-buttons2-c" data-rv-view="1313">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="col-md-8 align-center">
+                <h2 class="pb-3 mbr-fonts-style display-2">
+                    FOLLOW US!
+                </h2>
+                <div class="social-list pl-0 mb-0">
+                    <a href="https://twitter.com/mobirise" target="_blank">
+                        <span class="px-2 socicon-twitter socicon mbr-iconfont mbr-iconfont-social" media-simple="true"></span>
+                    </a>
+                    <a href="https://www.facebook.com/pages/Mobirise/1616226671953247" target="_blank">
+                        <span class="px-2 socicon-facebook socicon mbr-iconfont mbr-iconfont-social" media-simple="true"></span>
+                    </a>
+                    <a href="https://instagram.com/mobirise" target="_blank">
+                        <span class="px-2 socicon-instagram socicon mbr-iconfont mbr-iconfont-social" media-simple="true"></span>
+                    </a>
+                    <a href="https://www.youtube.com/c/mobirise" target="_blank">
+                        
+                    </a>
+                    <a href="https://plus.google.com/u/0/+Mobirise" target="_blank">
+                        
+                    </a>
+                    <a href="https://www.behance.net/Mobirise" target="_blank">
+                        
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-qzaqwpHEDD" id="footer1-b" data-rv-view="1316">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row content text-white">
+            <div class="col-12 col-md-3">
+                <div class="media-wrap">
+                    <a href="#">
+                        <img src="assets/images/alisha-hieb-249784-2000x1333.jpg" alt="Mobirise" title="" media-simple="true">
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Address
+                </h5>
+                <p class="mbr-text">
+                    1234 Street Name
+                    <br>City, AA 99999
+                </p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Contacts
+                </h5>
+                <p class="mbr-text">
+                    Email: hello@supermagazine.com
+                    <br>Phone: +1 (0) 000 0000 001
+                    <br>Fax: +1 (0) 000 0000 002
+                </p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Links
+                </h5>
+                <p class="mbr-text">
+                    <a class="text-white" href="#">Website builder</a>
+                    <br><a class="text-white" href="#">Download for Windows</a>
+                    <br><a class="text-white" href="#">Download for Mac</a>
+                </p>
+            </div>
+        </div>
+        <div class="footer-lower">
+            <div class="media-container-row">
+                <div class="col-sm-12">
+                    <hr>
+                </div>
+            </div>
+            <div class="media-container-row mbr-white">
+                <div class="col-sm-6 copyright">
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        © Copyright 2017 <a href="#" class="text-white">Free Bootstrap Templates</a> - All Rights Reserved
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
     <script src='https://js.stripe.com/v3/'></script>
     <script>    
@@ -276,13 +400,6 @@
 
       var cardCvc = elements.create('cardCvc', {style: style});
       cardCvc.mount('#card-cvc');
-
-
-
-
-
-/*      var cardElement = elements.create('card',{ hidePostalCode: true});
-      cardElement.mount('#card-element');*/
       var cardButton = document.getElementById('card-button');
       $(document).ready(function () {
 
@@ -416,74 +533,8 @@
         }
       }
       </script>
-<section class="cid-qzaqwpHEDD" id="footer1-b" data-rv-view="1316">
-
-    
-
-    
-
-    <div class="container">
-        <div class="media-container-row content text-white">
-            <div class="col-12 col-md-3">
-                <div class="media-wrap">
-                    <a href="#">
-                        <img src="assets/images/alisha-hieb-249784-2000x1333.jpg" alt="Mobirise" title="" media-simple="true">
-                    </a>
-                </div>
-            </div>
-            <div class="col-12 col-md-3 mbr-fonts-style display-7">
-                <h5 class="pb-3">
-                    Address
-                </h5>
-                <p class="mbr-text">
-                    1234 Street Name
-                    <br>City, AA 99999
-                </p>
-            </div>
-            <div class="col-12 col-md-3 mbr-fonts-style display-7">
-                <h5 class="pb-3">
-                    Contacts
-                </h5>
-                <p class="mbr-text">
-                    Email: hello@supermagazine.com
-                    <br>Phone: +1 (0) 000 0000 001
-                    <br>Fax: +1 (0) 000 0000 002
-                </p>
-            </div>
-            <div class="col-12 col-md-3 mbr-fonts-style display-7">
-                <h5 class="pb-3">
-                    Links
-                </h5>
-                <p class="mbr-text">
-                    <a class="text-white" href="#">Website builder</a>
-                    <br><a class="text-white" href="#">Download for Windows</a>
-                    <br><a class="text-white" href="#">Download for Mac</a>
-                </p>
-            </div>
-        </div>
-        <div class="footer-lower">
-            <div class="media-container-row">
-                <div class="col-sm-12">
-                    <hr>
-                </div>
-            </div>
-            <div class="media-container-row mbr-white">
-                <div class="col-sm-6 copyright">
-                    <p class="mbr-text mbr-fonts-style display-7">
-                        © Copyright 2017 <a href="#" class="text-white">Free Bootstrap Templates</a> - All Rights Reserved
-                    </p>
-                </div>
-                <div class="col-md-6">
-                    
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-  <script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/popper/popper.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
-  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
   <script src="assets/smooth-scroll/smooth-scroll.js"></script>
   <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
   <script src="assets/jarallax/jarallax.min.js"></script>
